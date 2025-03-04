@@ -17,6 +17,4 @@ List<Map<String,String>> list = (List<Map<String,String>>)request.getAttribute("
 for(Map<String,String>maps:list) {
  out.print(maps);
 }
-
-
 %>
